@@ -1,0 +1,36 @@
+{
+    "name": "TachySwap Tokens",
+    "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/TACH.png",
+    "keywords": [
+        "TachySwap",
+        "etherlink",
+        "Tezos",
+        "defi"
+    ],
+    "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 1
+    },
+    "tokens": [
+        {
+            "chainId": 128123,
+            "address": "0x340Fa96ACF0b8D36828e1D8963CdF3E95c58ed06",
+            "decimals": 18,
+            "name": "Wrapped XTZ",
+            "symbol": "WXTZ",
+            "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0x340Fa96ACF0b8D36828e1D8963CdF3E95c58ed06/logo.png"
+        },
+        {
+            "chainId": 128123,
+            "address": "0xEB86a0bb85254fbAfC94bF79E115DE599a1ef383",
+            "decimals": 18,
+            "name": "TachySwap Token",
+            "symbol": "TACH",
+            "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xEB86a0bb85254fbAfC94bF79E115DE599a1ef383/logo.png"
+        }
+
+
+    ],
+    "timestamp": "2024-02-20T16:00:00+00:00"
+}
