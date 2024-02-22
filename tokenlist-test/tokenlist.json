@@ -10,7 +10,7 @@
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 1
+        "patch": 2
     },
     "tokens": [
         {
@@ -28,6 +28,14 @@
             "name": "TachySwap Token",
             "symbol": "TACH",
             "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xEB86a0bb85254fbAfC94bF79E115DE599a1ef383/logo.png"
+        },
+        {
+            "chainId": 128123,
+            "address": "0xE27de22cF4815c763B023BB25e49DdFE543ad905",
+            "decimals": 18,
+            "name": "Gnomz²",
+            "symbol": "GNOMZ",
+            "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xE27de22cF4815c763B023BB25e49DdFE543ad905/logo.png"
         }
 
 
