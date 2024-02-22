@@ -33,7 +33,7 @@
             "chainId": 128123,
             "address": "0xE27de22cF4815c763B023BB25e49DdFE543ad905",
             "decimals": 18,
-            "name": "Gnomz²",
+            "name": "Gnomz",
             "symbol": "GNOMZ",
             "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xE27de22cF4815c763B023BB25e49DdFE543ad905/logo.png"
         }
