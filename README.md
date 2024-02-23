@@ -12,7 +12,7 @@ description: 'Building on TachySwap and need help? let us know.'
 ### 2. Token Information File <a id="2-token-information-file"></a>
 
 > * Fork the repository and add the token information (example below) to tokenlist-test/tokenlist.json
-> * Create a folder under token/{tokenAddress}
+> * Create a folder under token/addresses/{tokenAddress}
 > * Add the token icon (logo.png) under the folder created in the previous step
 > * Add the token information in the tokenlist.json file, in the format shown below
 The sample below shows what information has to be included on the `tokenlist.json` file.  
