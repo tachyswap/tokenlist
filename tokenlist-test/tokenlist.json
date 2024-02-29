@@ -36,6 +36,14 @@
             "name": "Gnomz",
             "symbol": "GNOMZ",
             "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xE27de22cF4815c763B023BB25e49DdFE543ad905/logo.png"
+        },
+        {
+            "chainId": 128123,
+            "address": "0xD61b4f37645D0568F60176Ab97F712Bdf3db05F4",
+            "decimals": 18,
+            "name": "5 Air Fryer",
+            "symbol": "AIRFRYER",
+            "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xD61b4f37645D0568F60176Ab97F712Bdf3db05F4/logo.png"
         }
 
 
