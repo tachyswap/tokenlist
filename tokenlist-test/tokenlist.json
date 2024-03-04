@@ -10,7 +10,7 @@
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 1
+        "patch": 2
     },
     "tokens": [
         {
@@ -44,7 +44,24 @@
             "name": "5 Air Fryer",
             "symbol": "AIRFRYER",
             "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xD61b4f37645D0568F60176Ab97F712Bdf3db05F4/logo.png"
-        }
+        },
+        {
+            "chainId": 128123,
+            "address": "0xD4d26c5e437173796B3ff41Fc5a75Ab96eB604eA",
+            "decimals": 18,
+            "name": "BOOP Coin",
+            "symbol": "BOOP",
+            "logoURI": "ipfs://QmRB6Krif5q8eKszNhe3diBahXrisjQcGw6WJEJeh4K4bT"
+           
+          },
+          {
+            "chainId": 128123,
+            "address": "0xCB2aB1E44daDC889a91184527beC6820Bc2BF210",
+            "decimals": 18,
+            "name": "TORQUE",
+            "symbol": "TQ2",
+            "logoURI": "ipfs://Qmd8T8p1ZdUDQD5MwUmUYUZWkmAsuALw8VkmCoi1DTpY9L"
+          }
 
 
     ],
