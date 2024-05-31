@@ -89,7 +89,7 @@
             "chainId": 128123,
             "address": "0x576039C3D55527CF86FFBcA84771AcDed99310f7",
             "decimals": 18,
-            "name": EXTZ on Plend",
+            "name": "EXTZ on Plend",
             "symbol": "EXTZ",
             "logoURI": "https://testnet.plend.finance/icons/tokens/extz.svg"
         }
