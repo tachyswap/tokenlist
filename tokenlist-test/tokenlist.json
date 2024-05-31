@@ -51,49 +51,48 @@
             "decimals": 18,
             "name": "BoopToken",
             "symbol": "BOOP",
-            "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xD4d26c5e437173796B3ff41Fc5a75Ab96eB604eA/logo.png"
-           
-          },
-          {
+            "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xD4d26c5e437173796B3ff41Fc5a75Ab96eB604eA/logo.png"         
+        },
+        {
             "chainId": 128123,
             "address": "0xCB2aB1E44daDC889a91184527beC6820Bc2BF210",
             "decimals": 18,
             "name": "TorqueToken",
             "symbol": "OCT",
             "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xCB2aB1E44daDC889a91184527beC6820Bc2BF210/logo.png"
-          },
-          {
+        },
+        {
             "chainId": 128123,
             "address": "0xF1611a297B1D9120fd4383856B4524Ad54BC7086",
             "decimals": 18,
             "name": "USDT on Plend",
             "symbol": "USDT",
             "logoURI": "https://testnet.plend.finance/icons/tokens/usdt.svg"
-          }, 
-          {
+        }, 
+        {
             "chainId": 128123,
             "address": "0xc4ad0AB9eB49654738C76967E78152ADAbE99Db4",
             "decimals": 18,
             "name": "EUSDC on Plend",
             "symbol": "EUSDC",
             "logoURI": "https://testnet.plend.finance/icons/tokens/eusdc.svg"
-          },   
-          {
+        },   
+        {
             "chainId": 128123,
             "address": "0x0F8f22977d57e0b7b04999419865dCd0277b8C41",
             "decimals": 18,
             "name": "WBTC on Plend",
             "symbol": "WBTC",
             "logoURI": "https://testnet.plend.finance/icons/tokens/wbtc.svg"
-          }, 
-          {
+        }, 
+        {
             "chainId": 128123,
             "address": "0x576039C3D55527CF86FFBcA84771AcDed99310f7",
             "decimals": 18,
             "name": EXTZ on Plend",
             "symbol": "EXTZ",
             "logoURI": "https://testnet.plend.finance/icons/tokens/extz.svg"
-          }
+        }
 
 
     ],
