@@ -20,9 +20,17 @@
             "name": "Wrapped XTZ",
             "symbol": "WXTZ",
             "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb/logo.png"
+        },
+        {
+            "chainId": 42793,
+            "address": "0xf1289118Ff03F197f0D0A50E4774984e7977965e",
+            "decimals": 18,
+            "name": "BabyTurbo",
+            "symbol": "BTURB",
+            "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xf1289118Ff03F197f0D0A50E4774984e7977965e/logo.png"
         }
 
 
     ],
-    "timestamp": "2024-06-26T13:06:06Z"
+    "timestamp": "2024-06-27T15:39:08Z"
 }
