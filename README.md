@@ -11,7 +11,7 @@ description: 'Building on TachySwap and need help? let us know.'
 > * **Background**: Transparent is a must
 ### 2. Token Information File <a id="2-token-information-file"></a>
 
-> * Fork the repository and add the token information (example below) to tokenlist-test/tokenlist.json
+> * Fork the repository and add the token information (example below) to tokenlist/tokenlist.json
 > * Create a folder under token/addresses/{tokenAddress}
 > * Add the token icon (logo.png) under the folder created in the previous step
 > * Add the token information in the tokenlist.json file, in the format shown below
@@ -20,12 +20,12 @@ Please make sure that the details are accurate and follows the formatting.
 
 ```
 {
-            "chainId": 128123,
-            "address": "0xEB86a0bb85254fbAfC94bF79E115DE599a1ef383",
+            "chainId": 42793,
+            "address": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb",
             "decimals": 18,
-            "name": "TachySwap Token",
-            "symbol": "TACH",
-            "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xEB86a0bb85254fbAfC94bF79E115DE599a1ef383/logo.png"
+            "name": "Wrapped XTZ",
+            "symbol": "WXTZ",
+            "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb/logo.png"
 }
 ``` 
 
