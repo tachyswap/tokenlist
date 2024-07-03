@@ -36,9 +36,17 @@
             "name": "Etherlonk",
             "symbol": "nocoin",
             "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xc00cB883b41c800D434947243D537a3896d3e636/logo.png"
-        }
+        },
+        {
+            "chainId": 42793,
+            "address": "0x176b6EE8DA6E7e07530960Eaa03707cE6F4FA4E5",
+            "decimals": 18,
+            "name": "蛙闘 (Frog Fight)",
+            "symbol": "KTO",
+            "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0x176b6EE8DA6E7e07530960Eaa03707cE6F4FA4E5/logo.png"
+        }        
 
 
     ],
-    "timestamp": "2024-06-28T11:07:37Z"
+    "timestamp": "2024-07-03T11:07:37Z"
 }
