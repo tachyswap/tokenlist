@@ -100,9 +100,25 @@
             "name": "USDT Renora",
             "symbol": "USDT-Renora",
             "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png?v=032"
+        },
+        {
+            "chainId": 128123,
+            "address": "0xaE2Fbb70fD10422EF07E53Ec5083e2b1F6152205",
+            "decimals": 18,
+            "name": "WBTC Renora",
+            "symbol": "WBTC-Renora",
+            "logoURI": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.png?v=032"
+        },
+        {
+            "chainId": 128123,
+            "address": "0x8cfF9C622b5382858686aa3094D52e368914863E",
+            "decimals": 18,
+            "name": "ETH Renora",
+            "symbol": "ETH-Renora",
+            "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png?v=032"
         }
 
 
     ],
-    "timestamp": "2024-02-20T16:00:00+00:00"
+    "timestamp": "2024-07-04T14:24:00Z"
 }
