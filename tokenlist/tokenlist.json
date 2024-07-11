@@ -1,12 +1,7 @@
 {
     "name": "TachySwap Tokens",
     "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/TACH.png",
-    "keywords": [
-        "TachySwap",
-        "etherlink",
-        "Tezos",
-        "defi"
-    ],
+    "keywords": ["TachySwap", "etherlink", "Tezos", "defi"],
     "version": {
         "major": 0,
         "minor": 0,
@@ -36,9 +31,23 @@
             "name": "Etherlonk",
             "symbol": "nocoin",
             "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xc00cB883b41c800D434947243D537a3896d3e636/logo.png"
+        },
+        {
+            "chainId": 42793,
+            "address": "0x44d50c94c17a95fcd4a235a761d76b7f4f1ee805",
+            "decimals": 18,
+            "name": "BACON",
+            "symbol": "BACON",
+            "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0x44d50c94c17a95fcd4a235a761d76b7f4f1ee805/logo.png"
+        },
+        {
+            "chainId": 42793,
+            "address": "0x39d5916592124c9738405d8bf171768713443d58",
+            "decimals": 18,
+            "name": "BREAD",
+            "symbol": "BREAD",
+            "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0x39d5916592124c9738405d8bf171768713443d58/logo.png"
         }
-
-
     ],
     "timestamp": "2024-06-28T11:07:37Z"
 }
