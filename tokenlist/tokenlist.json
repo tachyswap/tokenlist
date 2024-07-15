@@ -36,9 +36,18 @@
             "name": "Etherlonk",
             "symbol": "nocoin",
             "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xc00cB883b41c800D434947243D537a3896d3e636/logo.png"
+        },
+        {
+            "chainId": 42793,
+            "address": "0xfe69127af0b20d70197c23ae8685e7c39ff04783",
+            "decimals": 18,
+            "name": "Little Sushi",
+            "symbol": "LSUSHI",
+            "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xfe69127af0b20d70197c23ae8685e7c39ff04783/logo.png"
         }
 
 
+
     ],
-    "timestamp": "2024-06-28T11:07:37Z"
+    "timestamp": "2024-07-15T16:28:44Z"
 }
