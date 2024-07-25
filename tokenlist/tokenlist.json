@@ -23,6 +23,30 @@
         },
         {
             "chainId": 42793,
+            "address": "0x2C03058C8AFC06713be23e58D2febC8337dbfE6A",
+            "decimals": 6,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661"
+        },
+        {
+            "chainId": 42793,
+            "address": "0x796Ea11Fa2dD751eD01b53C372fFDB4AAa8f00F9",
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
+        },
+        {
+            "chainId": 42793,
+            "address": "0xfc24f770F94edBca6D6f885E12d4317320BcB401",
+            "decimals": 18,
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "logoURI": "https://assets.coingecko.com/coins/images/31019/standard/download_%2817%29.png?1696529855"
+        },
+        {
+            "chainId": 42793,
             "address": "0xf1289118Ff03F197f0D0A50E4774984e7977965e",
             "decimals": 18,
             "name": "BabyTurbo",
