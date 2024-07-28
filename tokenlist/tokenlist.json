@@ -10,7 +10,7 @@
     "version": {
         "major": 0,
         "minor": 2,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -68,10 +68,18 @@
             "name": "Little Sushi",
             "symbol": "LSUSHI",
             "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xfe69127af0b20d70197c23ae8685e7c39ff04783/logo.png"
+        },
+        {
+            "chainId": 42793,
+            "address": "0xd08B30c1EdA1284cD70E73F29ba27B5315aCc3F9",
+            "decimals": 18,
+            "name": "MOOD",
+            "symbol": "MOOD",
+            "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xd08B30c1EdA1284cD70E73F29ba27B5315aCc3F9/logo.png"
         }
 
 
 
     ],
-    "timestamp": "2024-07-15T16:28:44Z"
+    "timestamp": "2024-07-28T20:25:12Z"
 }
