@@ -10,7 +10,7 @@
     "version": {
         "major": 0,
         "minor": 2,
-        "patch": 1
+        "patch": 2
     },
     "tokens": [
         {
@@ -44,6 +44,38 @@
             "name": "Wrapped Ether",
             "symbol": "WETH",
             "logoURI": "https://assets.coingecko.com/coins/images/31019/standard/download_%2817%29.png?1696529855"
+        },
+        {
+            "chainId": 42793,
+            "address": "0xbFc94CD2B1E55999Cfc7347a9313e88702B83d0F",
+            "decimals": 8,
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "logoURI": "https://assets.coingecko.com/coins/images/7598/standard/wrapped_bitcoin_wbtc.png?1696507857"
+        },
+        {
+            "chainId": 42793,
+            "address": "0xaA40A1cc1561c584B675cbD12F1423A32E2a0d8C",
+            "decimals": 18,
+            "name": "Wrapped BNB",
+            "symbol": "WBNB",
+            "logoURI": "https://assets.coingecko.com/coins/images/825/standard/bnb-icon2_2x.png?1696501970"
+        },
+        {
+            "chainId": 42793,
+            "address": "0xe820995cD39B6E09EAa7e4e16337184b4A61B644",
+            "decimals": 18,
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX",
+            "logoURI": "https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png?1696512369"
+        },
+        {
+            "chainId": 42793,
+            "address": "0xBBD1F50A212357067318a84179892684e1Ac5181",
+            "decimals": 18,
+            "name": "SHIBA INU",
+            "symbol": "SHIB",
+            "logoURI": "https://assets.coingecko.com/coins/images/11939/standard/shiba.png?1696511800"
         },
         {
             "chainId": 42793,
@@ -81,5 +113,5 @@
 
 
     ],
-    "timestamp": "2024-07-28T12:25:12Z"
+    "timestamp": "2024-07-30T11:00:00Z"
 }
