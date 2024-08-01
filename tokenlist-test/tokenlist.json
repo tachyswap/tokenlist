@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 3,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tokens": [
@@ -66,15 +66,15 @@
             "address": "0xF1611a297B1D9120fd4383856B4524Ad54BC7086",
             "decimals": 18,
             "name": "USDT on Plend",
-            "symbol": "USDT",
-            "logoURI": "https://assets.coingecko.com/coins/images/31271/standard/usdt.jpeg?1696530095"
+            "symbol": "USDT.p",
+            "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661"
         }, 
         {
             "chainId": 128123,
             "address": "0xc4ad0AB9eB49654738C76967E78152ADAbE99Db4",
             "decimals": 18,
             "name": "EUSDC on Plend",
-            "symbol": "EUSDC",
+            "symbol": "EUSDC.p",
             "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
         },   
         {
@@ -82,7 +82,7 @@
             "address": "0x0F8f22977d57e0b7b04999419865dCd0277b8C41",
             "decimals": 18,
             "name": "WBTC on Plend",
-            "symbol": "WBTC",
+            "symbol": "WBTC.p",
             "logoURI": "https://assets.coingecko.com/coins/images/7598/standard/wrapped_bitcoin_wbtc.png?1696507857"
         }, 
         {
@@ -90,11 +90,35 @@
             "address": "0x576039C3D55527CF86FFBcA84771AcDed99310f7",
             "decimals": 18,
             "name": "EXTZ on Plend",
-            "symbol": "EXTZ",
+            "symbol": "EXTZ.p",
             "logoURI": "https://assets.coingecko.com/coins/images/976/standard/Tezos-logo.png?1696502091"
+        },
+        {
+            "chainId": 128123,
+            "address": "0xBf8c88822671E86333d9220724432Ae651fB1140",
+            "decimals": 6,
+            "name": "USDT Renora",
+            "symbol": "USDT.r",
+            "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661"
+        }, 
+        {
+            "chainId": 128123,
+            "address": "0x8cfF9C622b5382858686aa3094D52e368914863E",
+            "decimals": 18,
+            "name": "ETH Renora",
+            "symbol": "ETH.r",
+            "logoURI": "https://assets.coingecko.com/coins/images/31019/standard/download_%2817%29.png?1696529855"
+        },   
+        {
+            "chainId": 128123,
+            "address": "0xaE2Fbb70fD10422EF07E53Ec5083e2b1F6152205",
+            "decimals": 18,
+            "name": "WBTC Renora",
+            "symbol": "WBTC.r",
+            "logoURI": "https://assets.coingecko.com/coins/images/7598/standard/wrapped_bitcoin_wbtc.png?1696507857"
         }
 
 
     ],
-    "timestamp": "2024-07-30T11:00:00Z"
+    "timestamp": "2024-08-01T05:00:00Z"
 }
