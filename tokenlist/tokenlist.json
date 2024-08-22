@@ -10,7 +10,7 @@
     "version": {
         "major": 0,
         "minor": 3,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -108,10 +108,18 @@
             "name": "MOOD",
             "symbol": "MOOD",
             "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xd08b30c1eda1284cd70e73f29ba27b5315acc3f9/logo.png"
+        },
+        {
+            "chainId": 42793,
+            "address": "0xa02869C70fB0764e7f4262b4A9f3e678Ff6831B3",
+            "decimals": 18,
+            "name": "Tezos Artist",
+            "symbol": "BROKE",
+            "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xa02869C70fB0764e7f4262b4A9f3e678Ff6831B3/logo.png"
         }
 
 
 
     ],
-    "timestamp": "2024-07-30T11:00:00Z"
+    "timestamp": "2024-08-22T12:00:00Z"
 }
